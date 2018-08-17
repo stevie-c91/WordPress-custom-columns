@@ -6,4 +6,4 @@ This is an example of how to add custom columns into the WordPress admin area. I
 
 This is meant to be expanded on / customised to meet the needs of your website.
 
-View relevant article [here](https://stevencotterill.co.uk/adding-custom-columns-to-the-wordpress-admin-area)
+View relevant article [here](https://stevencotterill.co.uk/blog/adding-custom-columns-to-the-wordpress-admin-area)
